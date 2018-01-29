@@ -1,0 +1,19 @@
+// Vendor data Json
+{
+	"_id" : ObjectId("5a6ea2a8478c0e5b912c7d08"),
+	"addedOn" : ISODate("2018-01-29T04:27:20.275Z"),
+	"name" : "Android",
+	"vendorCode" : "V0015",
+	"email" : "vendorAndroid@gmail.com",
+	"sellerRank" : 5,
+	"__v" : 0
+}
+{
+	"_id" : ObjectId("5a6ea2d5478c0e5b912c7d09"),
+	"addedOn" : ISODate("2018-01-29T04:28:05.538Z"),
+	"name" : "IOS",
+	"vendorCode" : "V0011",
+	"email" : "vendorIOS@gmail.com",
+	"sellerRank" : 2,
+	"__v" : 0
+}
